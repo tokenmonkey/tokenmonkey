@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tokenmonkey
 - 👀 I’m interested in providing tokens for private repos! 
 - 🌱 I’m currently learning that scopes of personal access tokens suck. 
-- 💞️ I’m looking to collaborate automated tasks.
+- 💞️ I’m looking to collaborate on automated tasks.
 - 📫 How to reach me? - I'm just a tokenmonkey 
 
 <!---
